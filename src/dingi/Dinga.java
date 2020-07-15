@@ -6,6 +6,7 @@ public class Dinga {
 		System.out.println("Pengi");
 		System.out.println("Penga");
 		System.out.println("Punga");
+		System.out.println("Manga");
 	}
 
 }
